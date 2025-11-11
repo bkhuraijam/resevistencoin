@@ -72,9 +72,9 @@ make -j$(nproc)
 
 | Tool                                       | Beschreibung                                                       | Status        |
 | ------------------------------------------ | ------------------------------------------------------------------ | ------------- |
-| **reservistencoin-qt**                     | Desktop-Wallet mit GUI                                             | ✅             |
-| **reservistencoind / reservistencoin-cli** | Fullnode + CLI                                                     | ✅             |
-| **Block Explorer**                         | [explorer.reservistencoin.de](https://explorer.reservistencoin.de) | 🛠️ In Arbeit |
+| **reservistencoin-qt**                     | Desktop-Wallet mit GUI                                             | ✅           |
+| **reservistencoind / reservistencoin-cli** | Fullnode + CLI                                                     | ✅           |
+| **Block Explorer**                         | [explorer.reservistencoin.de](https://explorer.reservistencoin.de) | ✅           |
 | **Webwallet / Faucet**                     | [wallet.reservistencoin.de](https://wallet.reservistencoin.de)     | 🛠️ Geplant   |
 
 ---
